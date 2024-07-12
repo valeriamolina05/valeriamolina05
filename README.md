@@ -10,4 +10,4 @@
 
 ![logo](https://firebasestorage.googleapis.com/v0/b/portafoliovmc.appspot.com/o/tarjeta.png?alt=media&token=26ee1daa-2d00-44d1-866c-43d50cc88cf6)
 
-Mi nombre es Valeria Molina Caro, soy aprendiz de Desarrollo de Software. Cuento con habilidades en múltiples tecnologías de desarrollo, incluyendo JavaScript, HTML, CSS, Python, bases de datos y Github. Altamente motivada y enfocada en aprender y crecer en el campo del desarrollo de software.
+Mi nombre es Valeria Molina Caro, soy estudiante de Desarrollo de Software. Cuento con habilidades en múltiples tecnologías de desarrollo, incluyendo JavaScript, HTML, CSS, Python, bases de datos y Github. Altamente motivada y enfocada en aprender y crecer en el campo de la automatización de procesos.
